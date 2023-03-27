@@ -1,20 +1,26 @@
 ---
-name: Proposal request
-about: Suggest an idea for Everscale ecosystem
-title: "[PROPOSAL]"
-labels: proposal
-assignees: ''
-
+name: New proposal of [FEATURE NAME]
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### Brief Introduction
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+[Describe a brief introduction of your proposal]
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### Goals
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+[Describe the goals your proposal is designed to achieve]
+
+### What's the result
+
+[Describe the format in which the result of your work will be presented.   
+What the community will receive, and how it can be viewed]
+
+### Reward
+
+[Describe the amount in USD/EUR/EVER you would like to assign to this  
+task for an award upon its completion, or divide it into several milestones]
+
+------------------------
+_Please be free to modify this format. This is only a recommended example._
