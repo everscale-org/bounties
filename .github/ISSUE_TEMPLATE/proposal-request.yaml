@@ -1,0 +1,38 @@
+name: Bounty Proposal
+description: Suggest a new Bounty Proposal
+labels: 'proposal'
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the initiative to enhance the Everscale Blockchain.
+        Please utilize this template to generate an issue and propose a new bounty.
+  - type: textarea
+    attributes:
+      label: "Brief Introduction"
+      description: "Describe a brief introduction of your proposal"
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Goals"
+      description: "Describe the goals your proposal is designed to achieve"
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "What's the result"
+      description: |
+        Describe the format in which the result of your work will be presented.   
+        What the community will receive, and how it can be viewed
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Reward"
+      description: |
+        Describe the amount in USD/EUR/EVER you would like to assign to this 
+        task for an award upon its completion, or divide it into several milestones
+    validations:
+      required: True
