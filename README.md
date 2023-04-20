@@ -24,6 +24,9 @@ In the [github issues](https://github.com/everscale-org/bounties/issues) section
 Explore the list of open [github issues](https://github.com/everscale-org/bounties/issues) that have `approved` labels, but have not yet been assigned to a specific performer. If you've found a task you're ready to handle, let us know by sending a comment on the specific issue. Once all the questions have been resolved and you have been assigned to the task, you can get to it.
 
 ## The Everscale bounties committee
+
+This committee is responsible for making decisions on moving bounties to `approved` status. At least 3 of 4 committee members must publicly approve the application in order for it to be considered approved. The committee is also in talks with foundations, which in turn provide funding for this project. The committee may change the process and conditions of the bounty program.
+
 - [@elasticLove1](https://github.com/elasticLove1)
 - [@cryshado](https://github.com/cryshado)
 - [@Ilyar](https://github.com/ilyar)
