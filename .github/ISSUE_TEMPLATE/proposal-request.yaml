@@ -35,4 +35,4 @@ body:
         Describe the amount in USD/EUR/EVER you would like to assign to this 
         task for an award upon its completion, or divide it into several milestones
     validations:
-      required: True
+      required: false
