@@ -29,7 +29,6 @@ This committee is responsible for making decisions on moving bounties to `approv
 
 - [@elasticLove1](https://github.com/elasticLove1)
 - [@cryshado](https://github.com/cryshado)
-- [@Ilyar](https://github.com/ilyar)
 - [@eternalflow](https://github.com/eternalflow)
 
 
